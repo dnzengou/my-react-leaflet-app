@@ -1,0 +1,43 @@
+[
+ {
+   "Topic_ID":01,
+   "Topic": "Melvin AI",
+   "Website": "melvin-ai.com",
+   "Address": {
+            "Street": "Place Fernand Cocq",
+            "City": "Brussels",
+            "State": "",
+            "Zip": 1050,
+            "Country": "Belgium"
+        },
+        "Location": {
+            "latitude": 50.8333229,
+            "longitude": 4.366922
+        },
+   "Picture": "https://sites.google.com/a/revevol.eu/awesome-table-demo/female%20%2815%29.jpg",
+   "Category": "Web Technology",
+   "Role": "Owner",
+   "Description": "Conversational apps are the new channel for the Voice Of Customer.",
+   "City": "Brussels"
+ },
+ {
+   "Topic": "ApiJam - webapp",
+   "Website": "apijam-mobile.azurewebsites.net",
+   "Address": {
+            "Street": "Jaarbeursplein",
+            "City": "Utrecht",
+            "State": "",
+            "Zip": 3521,
+            "Country": "Netherlands"
+        },
+        "Location": {
+            "latitude": 52.0898593,
+            "longitude": 5.1063373
+        },
+   "Picture": "http://apijam-mobile.azurewebsites.net/assets/img/logo-54x54.png",
+   "Category": "Web Technology",
+   "Role": "Project Leader",
+   "Description": "Progressive Web App for Woman Only Chat powered by Firebase",
+   "City": "Utrecht"
+ }
+]
