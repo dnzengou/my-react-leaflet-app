@@ -1,6 +1,6 @@
 [
  {
-   "Topic_ID":01,
+   "Topic_ID":1,
    "Topic": "Melvin AI",
    "Website": "melvin-ai.com",
    "Address": {
@@ -21,6 +21,7 @@
    "City": "Brussels"
  },
  {
+   "Topic_ID":2,
    "Topic": "ApiJam - webapp",
    "Website": "apijam-mobile.azurewebsites.net",
    "Address": {
