@@ -11,8 +11,8 @@
             "Country": "Belgium"
         },
         "Location": {
-            "latitude": 50.8333229,
-            "longitude": 4.366922
+            "Latitude": 50.8333229,
+            "Longitude": 4.366922
         },
    "Picture": "https://sites.google.com/a/revevol.eu/awesome-table-demo/female%20%2815%29.jpg",
    "Category": "Web Technology",
@@ -32,8 +32,8 @@
             "Country": "Netherlands"
         },
         "Location": {
-            "latitude": 52.0898593,
-            "longitude": 5.1063373
+            "Latitude": 52.0898593,
+            "Longitude": 5.1063373
         },
    "Picture": "http://apijam-mobile.azurewebsites.net/assets/img/logo-54x54.png",
    "Category": "Web Technology",
