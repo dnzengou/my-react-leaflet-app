@@ -1,6 +1,6 @@
-# react-leaflet Map for skateboard parks in Ottawa, Canada
+# react-leaflet Map for some of my projects worldwide
 
-Create React App that uses react-leaflet to display skateboard parks locations data.
+I created a React App that uses react-leaflet to display project topics data.
 
 Inspiration:
 https://youtu.be/290VgjkLong
