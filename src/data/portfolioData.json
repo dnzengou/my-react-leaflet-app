@@ -1,13 +1,11 @@
 [
  {
-   "Topic_ID":1,
    "Topic": "Melvin AI",
    "Website": "melvin-ai.com",
    "Address": {
             "Street": "Place Fernand Cocq",
             "City": "Brussels",
             "State": "",
-            "Zip": 1050,
             "Country": "Belgium"
         },
         "Location": {
@@ -21,14 +19,12 @@
    "City": "Brussels"
  },
  {
-   "Topic_ID":2,
    "Topic": "ApiJam - webapp",
    "Website": "apijam-mobile.azurewebsites.net",
    "Address": {
             "Street": "Jaarbeursplein",
             "City": "Utrecht",
             "State": "",
-            "Zip": 3521,
             "Country": "Netherlands"
         },
         "Location": {
@@ -40,5 +36,195 @@
    "Role": "Project Leader",
    "Description": "Progressive Web App for Woman Only Chat powered by Firebase",
    "City": "Utrecht"
+ },
+ {
+   "Topic": "Chainergy",
+   "Website": "chainergy.co",
+   "Address": {
+            "Street": "Prinzessinnenstraße 19-20",
+            "City": "Berlin",
+            "State": "",
+            "Country": "Germany"
+        },
+        "Location": {
+            "Latitude": 52.531677,
+            "Longitude": 13.3817777
+        },
+   "Picture": "http://chainergy.azurewebsites.net/img/mockup_0.png",
+   "Category": "Web Technology",
+   "Role": "Project Leader",
+   "Description": "A beautiful interface for peer to peer energy trading. Decentralising the marketplace from the supplier to the people.",
+   "City": "Berlin"
+ },
+ {
+   "Topic": "Sportbuddy",
+   "Website": "sportbuddy.co",
+   "Address": {
+            "Street": "",
+            "City": "Stockholm",
+            "State": "",
+            "Country": "Sweden"
+        },
+        "Location": {
+            "Latitude":59.334591,
+            "Longitude":18.063240
+        },
+   "Picture": "https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-1/c0.32.185.185/13174014_233149617057792_726309013005392494_n.png?oh=99cfc89b963e1c65a5162c1f24aa56a7&oe=593F23B5",
+   "Category": "Web Technology",
+   "Role": "Project Leader",
+   "Description": "When Meetup meets Doodle, you get Sportbuddy. Anytime, anywhere, do the sport you want with people of same level.",
+   "City": "Stockholm"
+ },
+ {
+   "Topic": "Charles",
+   "Website": "chargemesoftly.co",
+   "Address": {
+            "Street": "Place Fernand Cocq",
+            "City": "Brussels",
+            "State": "",
+            "Country": "Belgium"
+        },
+        "Location": {
+            "Latitude": 50.8333229,
+            "Longitude": 4.366922
+        },
+   "Picture": "http://chargemesoftly-website.azurewebsites.net/img/favicons/android-chrome-192x192.png",
+   "Category": "Web Technology",
+   "Role": "Project Leader",
+   "Description": "Your favorite butler that assists you in locating charger spots for your mobile devices and gets you rewarded for it.",
+   "City": "Brussels"
+ },
+ {
+   "Topic": "Coachy",
+   "Website": "coachy-ai.azurewebsites.net",
+   "Address": {
+            "Street": "Place Fernand Cocq",
+            "City": "Brussels",
+            "State": "",
+            "Country": "Belgium"
+        },
+        "Location": {
+            "Latitude": 50.8333229,
+            "Longitude": 4.366922
+        },
+   "Picture": "http://coachy-ai.azurewebsites.net/img/mobile-screen-mockup-1.jpg",
+   "Category": "Web Technology",
+   "Role": "Project Member",
+   "Description": "Your personal sport chatbot that gets you fit, healthy and happy, anytime, anywhere!",
+   "City": "Brussels"
+ },
+ {
+   "Topic": "Co-boleia",
+   "Website": "co-boleia.azurewebsites.net",
+   "Address": {
+            "Street": "São Roque",
+            "City": "Ponta Delgada",
+            "State": "",
+            "Country": "Portugal"
+        },
+        "Location": {
+            "Latitude": 37.80852735,
+            "Longitude": -25.4730852864796
+        },
+   "Picture": "http://co-boleia.azurewebsites.net/img/avatar/ava_menu.png",
+   "Category": "Web Technology",
+   "Role": "Project Leader",
+   "Description": "Share a ride and go for a trip on the island. Save gas. Meet people. Be eco-responsible. Simply.",
+   "City": "Ponta Delgada,São Miguel (Açores)"
+ },
+ {
+   "Topic": "Desired Solutions",
+   "Website": "desiredsolutions.me",
+   "Address": {
+            "Street": "Lerbrannargatan 5i",
+            "City": "Molndal",
+            "State": "",
+            "Country": "Sweden"
+        },
+        "Location": {
+            "Latitude": 57.6500002,
+            "Longitude":12.016667 
+        },
+   "Picture": "http://desireyavro.azurewebsites.net/img/messenger_code_315161995533634.png",
+   "Category": "Web Technology",
+   "Role": "Owner",
+   "Description": "My space & deep tech innovation services",
+   "City": "Brussels"
+ },
+ {
+   "Topic": "VENDOR_StartYourSales",
+   "Website": "startyoursales.net",
+   "Address": {
+            "Street": "76 RHEINSBERGER STRASSE",
+            "City": "Berlin",
+            "State": "",
+            "Country": "Germany"
+        },
+        "Location": {
+            "Latitude": 52.531677,
+            "Longitude": 13.3817777
+        },
+   "Picture": "https://sites.google.com/a/revevol.eu/awesome-table-demo/male%20%2812%29.jpg",
+   "Category": "Web Technology",
+   "Role": "Developer",
+   "Description": "Salesman professional website",
+   "City": "Berlin"
+ },
+ {
+   "Topic": "WomenOnlyChat",
+   "Website": "womanonlychat.firebaseapp.com",
+   "Address": {
+            "Street": "Place Fernand Cocq",
+            "City": "Brussels",
+            "State": "",
+            "Country": "Belgium"
+        },
+        "Location": {
+            "Latitude": 50.8333229,
+            "Longitude": 4.366922
+        },
+   "Picture": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+   "Category": "Web Technology",
+   "Role": "Owner",
+   "Description": "Progressive Web App (PWA) for woman only chat powered by Firebase",
+   "City": "Brussels"
+ },
+ {
+   "Topic": "Google OQS program",
+   "Website": "google.com/about/datacenters/inside/locations/st-ghislain",
+   "Address": {
+            "Street": "",
+            "City": "Stockholm",
+            "State": "",
+            "Country": "Sweden"
+        },
+        "Location": {
+            "Latitude":59.334591,
+            "Longitude":18.063240
+        },
+   "Picture": "https://static.wixstatic.com/media/f8129c_0d277b9dfac34fbf9bd5ffe2183d2535~mv2.png/v1/fill/w_177,h_133,al_c,usm_0.66_1.00_0.01/f8129c_0d277b9dfac34fbf9bd5ffe2183d2535~mv2.png",
+   "Category": "Digital Industry",
+   "Role": "Program Manager, Training Material Specialist",
+   "Description": "Developing and deploying \"world class\" Operation Qualification Standard (OQS) training programs for in Google Datacenters (DCs)\n",
+   "City": "Brussels"
+ },
+ {
+   "Topic": "ISOS Corporate Medical Consulting Data Analysis",
+   "Website": "internationalsos.com/medical-and-security-services",
+   "Address": {
+            "Street": "11740 Wilshire Blvd",
+            "City": "Los Angeles",
+            "State": "California",
+            "Country": "USA"
+        },
+        "Location": {
+            "Latitude":34.0484097,
+            "Longitude":-118.4611465
+        },
+   "Picture": "https://static.wixstatic.com/media/f8129c_ecb2222d900742a49fb71f28d947bdf0.jpg/v1/fill/w_242,h_133,al_c,q_80,usm_0.66_1.00_0.01/f8129c_ecb2222d900742a49fb71f28d947bdf0.webp",
+   "Category": "Business Intelligence",
+   "Role": "Data Analyst, Project Management Support",
+   "Description": "Streamlining and Automation of Reports Building & Medical Services SharePoint Filing Management System Processes improvement",
+   "City": "Los Angeles, CA"
  }
 ]
