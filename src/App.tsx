@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import { MapContainer, TileLayer, GeoJSON, Marker, Popup } from 'react-leaflet';
-import portfolioData from "./data/portfolioData.json"
-import "leaflet/dist/leaflet.css";
+import portfolioData from "./data/portfolioData.json";
+import { Icon } from "leaflet";
 import './App.css';
 
 import L from "leaflet";
@@ -11,6 +11,8 @@ L.Marker.prototype.options.icon = L.icon({
 });
 
 function App() {
+  const [activePortfolio, setActivePortfolio] = useState(null);
+
     
   return (
    
@@ -26,15 +28,18 @@ function App() {
                   position={[
                       portfolio.Location.Latitude,
                       portfolio.Location.Longitude
-                  ]}
-               />          
+                  ]}>
+                  <Popup>
+                      {
+                          portfolio.City
+                      }
+                      <div>
+                          <h4>{"Topic: " + portfolio.Topic + ". Role: " + portfolio.Role}</h4>
+                          <code>{"" + portfolio.Description}</code>
+                      </div>
+                   </Popup>
+               </Marker>
           ))}
-          
-      <Marker position={[4.389955, 18.548918]}>
-        <Popup>
-          It starts <br /> here!
-        </Popup>
-      </Marker>
     </MapContainer>
   );
 }
