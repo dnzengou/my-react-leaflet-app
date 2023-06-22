@@ -22,7 +22,7 @@ function App() {
           
           {portfolioData.map(portfolio => (
               < Marker
-                  key={portfolio.Topic_ID}
+                  key={portfolio.Topic}
                   position={[
                       portfolio.Location.Latitude,
                       portfolio.Location.Longitude
