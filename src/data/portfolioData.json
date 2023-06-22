@@ -226,5 +226,62 @@
    "Role": "Data Analyst, Project Management Support",
    "Description": "Streamlining and Automation of Reports Building & Medical Services SharePoint Filing Management System Processes improvement",
    "City": "Los Angeles, CA"
+ },
+ {
+   "Topic": "GoR's (Government of Rwanda) JOINT STEM LAB FACILITY",
+   "Website": "https://www.technopolis-group.com/wp-content/uploads/2020/02/Joint-STEM-lab-facility.pdf",
+   "Address": {
+            "Street": "Kigali City Tower, KN 2 St",
+            "City": "Kigali",
+            "State": "",
+            "Country": "Rwanda"
+        },
+        "Location": {
+            "Latitude":-1.9438095,
+            "Longitude":30.0595725
+        },
+   "Picture": "https://www.technopolis-group.com/wp-content/uploads/2020/02/Joint-STEM-lab-facility.jpg",
+   "Category": "Technology, Entrepreneurship, Hardware startup, Innovation, Capacity building",
+   "Role": "Senior Industrial Technology Advisor",
+   "Description": "Research and Innovation for Industrial Growth",
+   "City": "Kigali, Rwanda"
+ },
+ {
+   "Topic": "Space Training Camp",
+   "Website": "https://space.ipn.pt/coimbra-space-training-camp-2/",
+   "Address": {
+            "Street": "Rua Pedro Nunes",
+            "City": "Coimbra",
+            "State": "",
+            "Country": "Portugal"
+        },
+        "Location": {
+            "Latitude":40.203314,
+            "Longitude":-8.410257
+        },
+   "Picture": "https://space.ipn.pt/wp-content/uploads/2023/05/cstc-768x409.png",
+   "Category": "Space, Technology, Entrepreneurship, Hardware startup, Innovation, Capacity building",
+   "Role": "Keynote speaker",
+   "Description": "EUSPA entrepreneurship activities for space tech startups",
+   "City": "Coimbra, Portugal"
+ },
+ {
+   "Topic": "Bringing Space data to the Metaverse",
+   "Website": "https://2022.ipfs.camp/",
+   "Address": {
+            "Street": "Rua Pedro Nunes",
+            "City": "Lisbon",
+            "State": "",
+            "Country": "Portugal"
+        },
+        "Location": {
+            "Latitude":38.735437029546745,
+            "Longitude":-9.10618136931578
+        },
+   "Picture": "https://i.ytimg.com/vi/g30NaICMRN4/maxresdefault.jpg",
+   "Category": "Space, Technology, Entrepreneurship, Startup, Metaverse, Innovation, Capacity building",
+   "Role": "Keynote speaker",
+   "Description": "find out where Space meets the Metaverse, and get a sneak peek into the sea of opportunities for startups bridging space technologies and space data, web3, and deep tech",
+   "City": "Portugal, Portugal"
  }
 ]
